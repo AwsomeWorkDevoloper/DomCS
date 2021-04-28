@@ -1,0 +1,7 @@
+E:\programs\Csharp\DomCS\DomCS\bin\Debug\DomCS.exe.config
+E:\programs\Csharp\DomCS\DomCS\bin\Debug\DomCS.exe
+E:\programs\Csharp\DomCS\DomCS\bin\Debug\DomCS.pdb
+E:\programs\Csharp\DomCS\DomCS\obj\Debug\DomCS.csprojAssemblyReference.cache
+E:\programs\Csharp\DomCS\DomCS\obj\Debug\DomCS.csproj.CoreCompileInputs.cache
+E:\programs\Csharp\DomCS\DomCS\obj\Debug\DomCS.exe
+E:\programs\Csharp\DomCS\DomCS\obj\Debug\DomCS.pdb
